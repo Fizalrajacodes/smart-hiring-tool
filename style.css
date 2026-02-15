@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background:#f7f7f7; }
+.container { width:700px; margin:40px auto; background:white; padding:24px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+input[type=text], input[type=file] { padding:8px; border:1px solid #ddd; border-radius:4px; }
+button { padding:10px 16px; border:none; border-radius:6px; cursor:pointer; }
+.note { color:#666; font-size:0.9em; }
